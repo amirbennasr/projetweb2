@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.swing.JTable java.lang.Object getValueAt(int, int)'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+</root>
